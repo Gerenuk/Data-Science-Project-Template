@@ -1,0 +1,4 @@
+Install "pip install cookiecutter" and create a project skeleton in the current directory with
+
+    cookiecutter .../datascience_cookiecutter/
+
