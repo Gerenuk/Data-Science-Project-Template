@@ -19,8 +19,8 @@ Project Organization
     │   │                     (!) Only for cleaned code stored as *.py files (since it is Git-friendly and Jupyter notebooks are not)
     │   ├── lib            <- Shared/helper/library functions, to be imported/re-used among data scientists and stages. Add this to your PYTHONPATH.
     │   ├── prepare        <- Scripts to transform/prepare the data and create features. Will be used less as modeling begins.
-    │   └── temp           <- Short-term scripts which will probably not be relevant after a while. Promote scripts if they become important.
-    │   
+    │   └── temp           <- Short-term scripts which will probably not be delivery at the end. Promote scripts if they become important.
+    │
     └── README.md          <- Short project description, contacts and data sources. (Markdown format)
 ```
 
